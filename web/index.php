@@ -1,5 +1,5 @@
 <?php
-die(123);
+die('develop');
 /**
  * Craft web bootstrap file
  */
