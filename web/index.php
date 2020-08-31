@@ -1,4 +1,5 @@
 <?php
+die(123);
 /**
  * Craft web bootstrap file
  */
